@@ -8,7 +8,7 @@
 
 | Компонент | Версия | Проверка установки |
 |---|---|---|
-| JDK | 21+ | `java -version` |
+| JDK | 21 | `java -version` |
 | Maven | 3.8+ | `mvn -version` |
 
 
